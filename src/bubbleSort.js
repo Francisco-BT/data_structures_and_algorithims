@@ -23,5 +23,5 @@ const bubbleSort = (array) => {
 
 // console.log('bubbleSort: ', bubbleSort(array));
 console.log(
-  `input: ${[4, 2, 7, 1, 3]}, outupt: ${bubbleSort([4, 2, 7, 1, 3])}`
+  `input: ${[4, 2, 7, 1, 3]}, output: ${bubbleSort([4, 2, 7, 1, 3])}`
 );
